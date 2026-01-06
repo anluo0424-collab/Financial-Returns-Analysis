@@ -1,8 +1,10 @@
 # Financial-Returns-Analysis
 A small quantitative finance toolkit built with NumPy to analyze stock performance and portfolio risk.
 
-# GBM Monte Carlo Simulation
-This project simulates stock price paths using the Geometric Brownian Motion (GBM) model.
+# 
+
+# GBM Monte Carlo Simulate stock price
+This project simulates stock price paths using the Geometric Brownian Motion (GBM) model under Black–Scholes–Merton model framework.
 
 - 252 trading days per year  
 - 10,000 simulated paths  

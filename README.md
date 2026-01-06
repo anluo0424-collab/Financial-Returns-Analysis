@@ -15,17 +15,12 @@ at both the individual asset and portfolio levels.
 It applies the variance–covariance framework commonly used in
 quantitative finance to aggregate risk across multiple assets.
 
-# 03. GBM Monte Carlo Simulate Stock Price
-This project simulates stock price paths using the Geometric Brownian Motion (GBM) model under Black–Scholes–Merton model framework.
+# 03. GBM-Based Monte Carlo Stock Price Simulation
 
-- 252 trading days per year  
-- 10,000 simulated paths  
-- Uses the exact solution of GBM  
-- Demonstrates how simulated paths fluctuate around the theoretical mean
+This notebook simulates stock price paths using the Geometric Brownian
+Motion (GBM) model under the Black–Scholes–Merton framework.
 
-This repository includes:
-- Code for generating GBM paths  
-- Visualization of sample paths  
-- Comparison with theoretical expected value
+The objective is to demonstrate how stochastic processes can be used
+to model the evolution of asset prices and to visualize the distribution
+of possible future price trajectories.
 
-The goal is to provide a simple and clear implementation of GBM for learning, teaching, and financial modeling practice.
